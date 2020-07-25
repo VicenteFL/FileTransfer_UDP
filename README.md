@@ -31,3 +31,7 @@ Ahora, el servidor mostrará información dependiendo de las operaciones que vay
 * Con el comando **exit**, el cliente se cerrará.
 
 Una vez completada una acción, tanto de forma exitosa como fallida, el cliente volverá a solicitar otra acción al usuario automáticamente, listando los posibles comandos.
+
+## Autor ✒️
+
+* **Vicente Fernández Lledó** - [VicenteFL]
