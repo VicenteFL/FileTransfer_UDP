@@ -1,9 +1,24 @@
 # FileTransfer_UDP
-File transfer system between two machines
+_File transfer system between two machines_
+
+## Compilado 🔧
 
 El sistema tiene dos archivos .c alojados cada uno en una carpeta distinta. En cada carpeta hay un makefile, por lo que lo único que hay que hacer tanto para compilar cliente como servidor es ejecutar en consola el comando make en las carpetas correspondientes, /Server y /Cliente.
+   
+      cd Server
+      make
+      
+      cd Cliente
+      make
 
-Una vez compilados, en la carpeta Server  ejecutaremos el archivo server que se ha creado escribiendo ./server. Para el cliente lo mismo, en la carpeta Client ejecutaremos el archivo client que se ha creado escribiendo ./client.
+
+## Ejecución 🚀
+
+Una vez compilados, en la carpeta Server ejecutaremos el archivo server que se ha creado escribiendo ./server. Para el cliente lo mismo, en la carpeta Client ejecutaremos el archivo client que se ha creado escribiendo ./client.
+
+      ./server
+      
+      ./client
 
 Ahora, el servidor mostrará información dependiendo de las operaciones que vaya realizando, pero toda la acción del usuario se realiza mediante la consola del cliente. Éste nos pedirá un comando para ejecutar una acción.
 
