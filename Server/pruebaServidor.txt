@@ -1,0 +1,2 @@
+Esto es una prueba para la transferencia de ficheros cliente servidor UDP.
+Autor: Vicente Fernández Lledó
